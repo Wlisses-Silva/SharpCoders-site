@@ -4,5 +4,4 @@ Essa atividade foi para fins de praticar e para uma boa revisão dos fundamentos
 
 Foi um site bem tranquilo de criar e gostei do resultado final.
 
-### Se quiser pode acessar o site para ver o resultado final.
-
+### Se quiser pode acessar o site para ver o resultado final. 
